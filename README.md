@@ -14,6 +14,7 @@
 <p align="center">
   <img src="./certificates/КОД_СПОРТА.png" alt="Диплом победителя «Код Спорта», Т-Банк" height="170"/>
   <img src="./certificates/Т1.png" alt="Сертификат участника хакатона Т1" height="170"/>
+  <img src="./certificates/VK.png" alt="Сертификат участника геймджема VK x UCHI.RU" height="170"/>
   <img src="./certificates/УК_2025.png" alt="Сертификат «Уральский код» 2025, Сбер" height="170"/>
   <img src="./certificates/УК_2024.png" alt="Сертификат «Уральский код» 2024, Сбер" height="170"/>
   <img src="./certificates/РОСАТОМ.png" alt="Сертификат конференции IT Core 2024, Росатом" height="170"/>
