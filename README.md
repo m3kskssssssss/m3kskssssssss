@@ -18,6 +18,10 @@
   <img src="./certificates/УК_2025.png" alt="Сертификат «Уральский код» 2025, Сбер" height="170"/>
   <img src="./certificates/УК_2024.png" alt="Сертификат «Уральский код» 2024, Сбер" height="170"/>
   <img src="./certificates/РОСАТОМ.png" alt="Сертификат конференции IT Core 2024, Росатом" height="170"/>
+  <img src="./certificates/ИТМО1.png" alt="Сертификат дополнительного образования ИТМО" height="170"/>
+  <img src="./certificates/ИТМО2.png" alt="Сертификат дополнительного образования ИТМО" height="170"/>
+  <img src="./certificates/УРФУ1.png" alt="Сертификат дополнительного образования УрФУ" height="170"/>
+  <img src="./certificates/УРФУ2.png" alt="Сертификат дополнительного образования УрФУ" height="170"/>
 </p>
 
 ---
