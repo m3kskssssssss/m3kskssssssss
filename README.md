@@ -13,6 +13,7 @@
 
 <p align="center">
   <img src="./certificates/КОД_СПОРТА.png" alt="Диплом победителя «Код Спорта», Т-Банк" height="170"/>
+  <img src="./certificates/ACR.png" alt="Аккредитации МФМ, Спартакиады и НРФ, в качестве организатора, А5000" height="170"/>
   <img src="./certificates/Т1.png" alt="Сертификат участника хакатона Т1" height="170"/>
   <img src="./certificates/VK.png" alt="Сертификат участника геймджема VK x UCHI.RU" height="170"/>
   <img src="./certificates/УК_2025.png" alt="Сертификат «Уральский код» 2025, Сбер" height="170"/>
