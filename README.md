@@ -1,5 +1,5 @@
 <h1 align="center">Стрельников Михаил Алексеевич</h1>
-<h3 align="center">Fullstack / Frontend разработчик</h3>
+<h3 align="center">Fullstack разработчик</h3>
 
 <p align="center">
   <a href="mailto:misha_2003_5@mail.ru"><img src="https://img.shields.io/badge/Email-misha__2003__5%40mail.ru-informational?style=flat-square" alt="Email"/></a>
